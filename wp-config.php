@@ -1,4 +1,5 @@
 <?php
+
 /**
  * The base configuration for WordPress
  *
@@ -20,7 +21,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wordpress_base');
+define('DB_NAME', 'wordpress-base');
 
 /** MySQL database username */
 define('DB_USER', 'root');
