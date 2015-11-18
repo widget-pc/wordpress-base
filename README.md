@@ -35,3 +35,8 @@ http://alxmedia.se/themes/hueman/
 	6. System Tweaks
 
 	7. Wordpress Tweaks
+
+==============
+> EXTRA
+==============
+http://www.elegantthemes.com/plugins/bloom/
