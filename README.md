@@ -35,3 +35,9 @@ http://alxmedia.se/themes/hueman/
 	6. System Tweaks
 
 	7. Wordpress Tweaks
+
+==============
+> EXTRA
+==============
+http://www.elegantthemes.com/plugins/bloom/
+http://www.null24.ir/download-bloom-v1-0-2-elegantthemes-email-opt-in-wordpress-plugin/
