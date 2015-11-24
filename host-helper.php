@@ -9,7 +9,7 @@ abstract class ConfigHostCloud{
 
 abstract class ConfigLocalHost{
 	static $db_host     = 'localhost';
-	static $db_name     = 'wordpress-base';
+	static $db_name     = 'wordpress_base';
 	static $db_user     = 'root';
 	static $db_password = '';
 }
