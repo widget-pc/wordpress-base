@@ -1,15 +1,15 @@
 <?php 
 
 abstract class ConfigHostCloud{
-	static $host        = '162.252.57.83';
-	static $db_name     = 'developm_kamilas';
-	static $db_user     = 'developm';
-	static $db_password = '8aSc3U2u1p';
+	static $host        = '';
+	static $db_name     = '';
+	static $db_user     = '';
+	static $db_password = '';
 }
 
 abstract class ConfigLocalHost{
 	static $db_host     = 'localhost';
-	static $db_name     = 'kamilas';
+	static $db_name     = 'wordpress-base';
 	static $db_user     = 'root';
 	static $db_password = '';
 }
